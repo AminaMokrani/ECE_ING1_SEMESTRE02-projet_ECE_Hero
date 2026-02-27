@@ -1,2 +1,11 @@
 # ECE_ING1_SEMESTRE02-projet_ECE_Hero
-Projet académique électronique réalisé en première année d’école d’ingénieur à l'ECE, en collaboration avec deux de mes collègues : avec et implémenté en langage C une version du jeu de société Quoridor. L’objectif était de mettre en pratique les notions d’algorithmique, de structures de données et de programmation procédurale vues en cours.
+
+Projet académique impliquant la réalisation d'une version simplifiée du jeu "Guitar Hero". 
+
+**Collaborateurs :**
+- MOKRANI Amina Anais
+- GAYOT Sarah
+- SALAMEH Roudi
+
+Ce projet combine la réalisation d’une guitare électronique avec un NE555 et le développement d’une interface graphique en Java via Processing. 
+L’objectif était de mettre en pratique les notions d’électronique analogique, de programmation orientée objet et de conception d’interfaces interactives.
